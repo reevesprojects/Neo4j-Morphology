@@ -1,0 +1,4 @@
+pandas
+neo4j
+python-dotenv
+git+https://github.com/vidraj/derinet.git#subdirectory=tools/data-api/derinet2
